@@ -8,3 +8,5 @@ Some content goes here
 Thing 1
 
 ### Further subheading 3
+Moruisg, near Strathcarron
+![Moruisg, near Strathcarron](https://d3teiib5p3f439.cloudfront.net/munros/moruisg-1.JPG)
