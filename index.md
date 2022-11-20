@@ -16,3 +16,7 @@ Moruisg, near Strathcarron
 app = Flask(__name__)
 app.secret_key = 'any random string'
 ```
+
+### Testing lists
+- [x] Introduce myself to the world
+- [ ] De-introduce myself from the world
